@@ -1,7 +1,7 @@
 # bobby_b_bot
 Bobby B bot for Slack (Heroku integration)
 
-A slackbot that responds with a random quote by Robert "Bobby" Baratheon
+A slackbot that responds with a random quote by Robert "Bobby" Baratheon1
 
 In slack enable "Outgoing WebHooks", chose a channel, leave trigger words empty and paste https://YOUR-APP-NAME.herokuapp.com/bobbyb into the URL(s) field.
 
